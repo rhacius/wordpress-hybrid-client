@@ -73,7 +73,7 @@
 # POST PAGES
 "post":
     "comments":
-        "enabled": true
+        "enabled": false
         "depth": 2
         "per_page": 50
     "cache":
@@ -181,7 +181,7 @@
     "appRate":
         "enabled": false
         "language": "en"
-        "appName": "Your Blog title"
+        "appName": "Engenharia.co App"
         "openStoreInApp": true
         "usesUntilPrompt": 3
         "promptForNewVersion": true
