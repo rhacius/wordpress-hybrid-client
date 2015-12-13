@@ -3,7 +3,7 @@
 
 # API
 "api":
-    "baseUrl": "https://engenharia.co/wp-json"
+    "baseUrl": "http://engenharia.co/wp-json"
     "timeout": 10000
     "maxAttempt": 3
 
