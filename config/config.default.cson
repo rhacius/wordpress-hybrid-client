@@ -1,9 +1,9 @@
-"debugEnabled": false
-"title": "Your Blog title"
+"debugEnabled": true
+"title": "Engenharia.co"
 
 # API
 "api":
-    "baseUrl": "http://yourDomain.com/wp-json"
+    "baseUrl": "https://engenharia.co/wp-json"
     "timeout": 10000
     "maxAttempt": 3
 
@@ -73,7 +73,7 @@
 # POST PAGES
 "post":
     "comments":
-        "enabled": true
+        "enabled": false
         "depth": 2
         "per_page": 50
     "cache":
