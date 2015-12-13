@@ -1,9 +1,9 @@
-"debugEnabled": false
-"title": "Your Blog title"
+"debugEnabled": true
+"title": "Engenharia.co App"
 
 # API
 "api":
-    "baseUrl": "http://yourDomain.com/wp-json"
+    "baseUrl": "http://engenharia.co/wp-json"
     "timeout": 10000
     "maxAttempt": 3
 
