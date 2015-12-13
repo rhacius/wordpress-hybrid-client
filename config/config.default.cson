@@ -3,7 +3,7 @@
 
 # API
 "api":
-    "baseUrl": "https://engenharia.co/wp-json"
+    "baseUrl": "http://engenharia.co/wp-json"
     "timeout": 10000
     "maxAttempt": 3
 
@@ -142,7 +142,7 @@
 # TRANSLATIONS
 "translation":
     "displayed" : ["en", "fr", "zh", "es", "pl", "de", "pt"]
-    "prefered": "en"
+    "prefered": "pt"
     "available":
         "en":
             "en_*": "en"
@@ -179,7 +179,7 @@
     "appRate":
         "enabled": false
         "language": "en"
-        "appName": "Your Blog title"
+        "appName": "Engenharia.co"
         "openStoreInApp": true
         "usesUntilPrompt": 3
         "promptForNewVersion": true
