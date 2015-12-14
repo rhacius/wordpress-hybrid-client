@@ -2,7 +2,7 @@
 "title": "Engenharia.co"
 
 "api":
-    "baseUrl": "http://engenharia.co/wp-json"
+    "baseUrl": "https://engenharia.co/wp-json"
     "timeout": 20000
     "maxAttempt": 3
 
